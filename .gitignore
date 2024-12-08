@@ -1,0 +1,6 @@
+
+# Ignore all logfiles and tempfiles.
+.idea
+.idea/
+/log/*
+/tmp/*
